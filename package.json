@@ -1,11 +1,6 @@
 {
-  "name": "material",
-  "theme": "syntax",
-  "version": "2.2.0",
   "description": "Syntax theme based off of the Material Design color palette",
-  "repository": "https://github.com/paradox41/material-color-scheme",
-  "license": "MIT",
-  "engines": {
-    "atom": ">0.50.0"
-  }
+  "name": "el Material Theme",
+  "repository": "https://github.com/el-even/sublime-material-color-scheme",
+  "theme": "syntax"
 }
